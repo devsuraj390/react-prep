@@ -2,18 +2,19 @@
 
 This repository includes React topics, along with related blogs and reference links.
 
-## 📚 Concepts
+#### 1. JSX & Component Basics
 
-### Hooks
+**JSX:**
 
-- useState
-- useEffect
-- useMemo
+- https://react.dev/learn/writing-markup-with-jsx
 
-### Performance
+**React.createElement():**
 
-- Memoization
-- Code Splitting
+- https://react.dev/reference/react/createElement
+
+**Functional Component:**
+
+- https://react.dev/learn/your-first-component
 
 ---
 
@@ -27,5 +28,3 @@ This repository includes React topics, along with related blogs and reference li
 ## 🧩 Components Implemented
 
 - Accordion
-- Modal
-- Tabs
